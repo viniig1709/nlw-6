@@ -1,0 +1,3 @@
+Criar o projeto (app): yarn create react-app letmeask --template typescript
+
+Aula 1: https://youtu.be/sjbhkDo_3iI
